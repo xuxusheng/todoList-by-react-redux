@@ -1,0 +1,19 @@
+{
+  "name": "todoList-by-react-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "http://github.com/xuxusheng/todoList-by-react-redux.git",
+  "author": "'xusheng-antiy' <'20691718@qq.com'>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2"
+  }
+}
